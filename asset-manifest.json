@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/DrawnSketch/static/css/main.6be2cfdf.css",
-    "main.js": "/DrawnSketch/static/js/main.105cdef7.js",
-    "index.html": "/DrawnSketch/index.html",
-    "static/media/getFetch.cjs": "/DrawnSketch/static/media/getFetch.c4cca45e22bc1b2c7d0d.cjs",
-    "main.6be2cfdf.css.map": "/DrawnSketch/static/css/main.6be2cfdf.css.map",
-    "main.105cdef7.js.map": "/DrawnSketch/static/js/main.105cdef7.js.map"
+    "main.css": "/DrawnSketch.github/static/css/main.6be2cfdf.css",
+    "main.js": "/DrawnSketch.github/static/js/main.7502967c.js",
+    "index.html": "/DrawnSketch.github/index.html",
+    "static/media/getFetch.cjs": "/DrawnSketch.github/static/media/getFetch.c4cca45e22bc1b2c7d0d.cjs",
+    "main.6be2cfdf.css.map": "/DrawnSketch.github/static/css/main.6be2cfdf.css.map",
+    "main.7502967c.js.map": "/DrawnSketch.github/static/js/main.7502967c.js.map"
   },
   "entrypoints": [
     "static/css/main.6be2cfdf.css",
-    "static/js/main.105cdef7.js"
+    "static/js/main.7502967c.js"
   ]
 }
